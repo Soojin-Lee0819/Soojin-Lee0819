@@ -1,6 +1,6 @@
 ## Hi I'm Soojin
 
-👩‍💻 Software Engineer (ex Product Manager) sharing projects and learnings in tech
+👩‍💻 Software Engineer (ex Product Manager) sharing projects and learnings in tech <br/>
 🎓 Studying Masters in Computer Science at the University of Pennsylvania
 
 <!--
