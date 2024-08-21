@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Soojin
+
+👩‍💻 Software Engineer (ex Product Manager) sharing projects and learnings in tech
+🎓 Studying Masters in Computer Science at the University of Pennsylvania
 
 <!--
 **Soojin-Lee0819/Soojin-Lee0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
