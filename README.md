@@ -1,8 +1,9 @@
 ## Hi I'm Soojin
-
-👩‍💻 Software Engineer (ex Product Manager) sharing projects and learnings in tech <br/>
-🎓 Studying Masters in Computer Science at the University of Pennsylvania
-
+🎓 Master's in CS at UPenn, previously at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/)  <br/>
+👩‍💻 Software Engineer (ex Product Manager)  <br/>
+🌱 Personal website: [Soojin Lee Portfolio](https://soojin-lee.com/)
+🙌 LinkedIn: [soojin-lee-0819](https://www.linkedin.com/in/soojin-lee0819/)
+📩 Email: soojinl@upenn.seas.edu
 <!--
 **Soojin-Lee0819/Soojin-Lee0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
