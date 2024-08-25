@@ -1,5 +1,5 @@
 ## Hi I'm Soojin
-🎓 Master's in CS at UPenn, previously at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/)  <br/><br/>
+🎓 Master's in CS at UPenn, previously at NYU <br/><br/>
 👩‍💻 Software Engineer (ex Product Manager)  <br/><br/>
 🌱 Personal website: [Soojin Lee Portfolio](https://soojin-lee.com/)<br/><br/>
 🙌 LinkedIn: [soojin-lee-0819](https://www.linkedin.com/in/soojin-lee0819/)<br/><br/>
