@@ -16,8 +16,7 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
 
 ### Projects
 
-- [AI-Chatbot for Qualtrics Survey](#ai-chatbot-for-qualtrics-survey)
-- A full-stack LLM chatbot designed for plug-and-play integration into Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models for embedding AI interactions in survey workflows. Scales to 200+ concurrent users and handles real-time data exchange.  
+- [AI-Chatbot for Qualtrics Survey](#ai-chatbot-for-qualtrics-survey) A full-stack LLM chatbot designed for plug-and-play integration into Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models for embedding AI interactions in survey workflows. Scales to 200+ concurrent users and handles real-time data exchange.  
   **Tech Stack:** Django, React, MariaDB, AWS EC2
 
 - [Journal Nook](#journal-nook-2024-upenn-mcit-hackathon) A journaling app using OpenAI LLM to generate summaries, quotes, and reflections based on user entries.  
