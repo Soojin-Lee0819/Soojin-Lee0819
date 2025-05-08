@@ -8,9 +8,9 @@ Hi I'm Soojin
 
 --- 
 Skills: 
-Languages: Python, Java, C, C++, JavaScript, SQL, Ruby, HTML/CSS
-Framework & Cloud: Django, Node.js, React, Flask, Socket.IO, MongoDB, Docker, AWS, GCP, Firebase 
-AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figma
+Languages: Python, Java, C, C++, JavaScript, SQL, Ruby, HTML/CSS <br/>
+Framework & Cloud: Django, Node.js, React, Flask, Socket.IO, MongoDB, Docker, AWS, GCP, Firebase <br/>
+AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figma <br/>
 
 ---
 
