@@ -17,35 +17,27 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
 ### Projects
 
 - AI-Chatbot for Qualtrics Survey: 
-A full-stack LLM chatbot, designed for simple plug-and-play integration into Qualtric surveys. Supports modern LLMs like OPenAI, Anthropic, and Hugging Face, enabling researchers to embed AI-powered chatbot interactions directly into their survey workflows. The system handles real-time data exchange with Qualtrics and scales to support 200+ concurrent users. 
-
-Tech Stack: Django, React, MariaDB, AWS EC2
+A full-stack LLM chatbot designed for easy plug-and-play integration with Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models, enabling researchers to embed AI-driven conversations directly into surveys. Scales to 200+ concurrent users and handles real-time data exchange with Qualtrics.
+(Tech Stack: Django, React, MariaDB, AWS EC2)
 
 - Journal Nook (2024 UPenn MCIT Hackathon!): 
-A web-based daily journaling app that uses OpenAI LLM to generate custom summaries and recommendations based on your journal entries -- helping guide deeper daily reflections. Users receive poems, inspirational quotes, and personalized content as they journal.
-
-Built with: Flask, React, HTML/CSS, LangChain
+A journaling web app that uses OpenAI LLMs to generate custom summaries, poems, quotes, and content based on daily entries—encouraging deeper self-reflection.(Tech Stack: Django, React, MariaDB, AWS EC2)
 
 - C++Wekipedia:
-A multi-threaded Web server for basic file browsing and keyword search. It spawns threads to handle client requests and efficiently parses and serves content.
-
-Tech Stack: C, C++, Multithreading (Threads)
+A multithreaded C++ web server for basic file browsing and keyword search. Efficiently parses and serves content using concurrent client handling.
+(Tech Stack: C, C++, POSIX Threads)
 Note: Source code is not publicly available.
 
 - Movie Name Game: 
-A Java-based two-player game inspired by cine2nerdle.app.
-Players take turns guessing connected movie titles based on actor, director or genre links, Features include autocomplete and cleaned Kaggle dataset for movie metadata
-
+A Java-based two-player game inspired by cine2nerdle.app. Players guess connected movies by actor, director, or genre. Features include autocomplete and a cleaned Kaggle dataset.
 Tech Stack: Java, CSV Parsing, Autocomplete
-Note: Source code is not publicly available.
+Note: Source code not publicly available.
 
 
 - Data Visualization & Web Games:
-A series of Interactive web applicatinos combining data visualization and create gameplay. Projects include client-server multiplayer games (e.g, pictionary, image recognition with realtime machine learning, a Starbucks nutrition label visualizer, a name-based API game, and a to-do list app)
+A collection of Interactive web apps combining real-time gameplay and data visualization. Includes: client-server multiplayer games (e.g, pictionary, image recognition game with realtime machine learning), Starbucks nutrition label visualizer, name-based API game, and a to-do list app
 
 Tech Stack: Node.js, Socket.IO, JavaScript, p5.js 
-
-
 
 <!--
 **Soojin-Lee0819/Soojin-Lee0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
