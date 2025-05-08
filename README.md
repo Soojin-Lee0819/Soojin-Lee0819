@@ -1,7 +1,7 @@
 Hi I'm Soojin
 ---
 🎓 I study CS @ UPenn, previously @ NYU <br/>
-👩‍💻 Incoming Software Engineer Intern @ SeatGeek (ex Product Manager)  <br/>
+👩‍💻 Incoming Software Engineer Intern @ SeatGeek  <br/>
 🙌 LinkedIn: [soojin-lee-0819](https://www.linkedin.com/in/soojin-lee0819/)<br/>
 🌱 Personal website: [Soojin Lee Portfolio](https://soojin-lee.com/)<br/>
 📩 Email: soojinl@upenn.seas.edu
