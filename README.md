@@ -30,7 +30,7 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
   **Tech Stack:** Java, CSV Parsing, Autocomplete  
   **Note:** Source code not publicly available.
 
-- [Data Visualization & Web Games](#data-visualization--web-games) A collection of web apps combining interactive gameplay and real-time data visualization. Includes multiplayer Pictionary, image recognition games, a Starbucks label visualizer, and more.  
+- [Data Visualization & Web Games](https://github.com/Soojin-Lee0819/connectionsLab) A collection of web apps combining interactive gameplay and real-time data visualization. Includes multiplayer Pictionary, image recognition games, a Starbucks label visualizer, and more.  
   **Tech Stack:** Node.js, Socket.IO, JavaScript, p5.js
 
 
