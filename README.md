@@ -16,28 +16,23 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
 
 ### Projects
 
-- AI-Chatbot for Qualtrics Survey: 
-A full-stack LLM chatbot designed for easy plug-and-play integration with Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models, enabling researchers to embed AI-driven conversations directly into surveys. Scales to 200+ concurrent users and handles real-time data exchange with Qualtrics.
-(Tech Stack: Django, React, MariaDB, AWS EC2)
+- **AI-Chatbot for Qualtrics Survey:** A full-stack LLM chatbot designed for plug-and-play integration into Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models for embedding AI interactions in survey workflows. Scales to 200+ concurrent users and handles real-time data exchange.  
+  **Tech Stack:** Django, React, MariaDB, AWS EC2
 
-- Journal Nook (2024 UPenn MCIT Hackathon!): 
-A journaling web app that uses OpenAI LLMs to generate custom summaries, poems, quotes, and content based on daily entries—encouraging deeper self-reflection.(Tech Stack: Django, React, MariaDB, AWS EC2)
+- **Journal Nook (2024 UPenn MCIT Hackathon):** A journaling app using OpenAI LLM to generate summaries, quotes, and reflections based on user entries.  
+  **Tech Stack:** Flask, React, HTML/CSS, LangChain
 
-- C++Wekipedia:
-A multithreaded C++ web server for basic file browsing and keyword search. Efficiently parses and serves content using concurrent client handling.
-(Tech Stack: C, C++, POSIX Threads)
-Note: Source code is not publicly available.
+- **C++Wekipedia:** A multithreaded web server for file browsing and keyword search, handling concurrent clients with efficient threading.  
+  **Tech Stack:** C, C++, POSIX Threads  
+  **Note:** Source code not publicly available.
 
-- Movie Name Game: 
-A Java-based two-player game inspired by cine2nerdle.app. Players guess connected movies by actor, director, or genre. Features include autocomplete and a cleaned Kaggle dataset.
-Tech Stack: Java, CSV Parsing, Autocomplete
-Note: Source code not publicly available.
+- **Movie Name Game:** A two-player Java game where players guess movies connected by actors, directors, or genres. Includes autocomplete and metadata from a cleaned Kaggle dataset.  
+  **Tech Stack:** Java, CSV Parsing, Autocomplete  
+  **Note:** Source code not publicly available.
 
+- **Data Visualization & Web Games:** A collection of web apps combining interactive gameplay and real-time data visualization. Includes multiplayer Pictionary, image recognition games, a Starbucks label visualizer, and more.  
+  **Tech Stack:** Node.js, Socket.IO, JavaScript, p5.js
 
-- Data Visualization & Web Games:
-A collection of Interactive web apps combining real-time gameplay and data visualization. Includes: client-server multiplayer games (e.g, pictionary, image recognition game with realtime machine learning), Starbucks nutrition label visualizer, name-based API game, and a to-do list app
-
-Tech Stack: Node.js, Socket.IO, JavaScript, p5.js 
 
 <!--
 **Soojin-Lee0819/Soojin-Lee0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
