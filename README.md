@@ -7,14 +7,14 @@ Hi I'm Soojin
 📩 Email: soojinl@upenn.seas.edu
 
 --- 
-Skills: 
+### Skills
 Languages: Python, Java, C, C++, JavaScript, SQL, Ruby, HTML/CSS <br/>
-Framework & Cloud: Django, Node.js, React, Flask, Socket.IO, MongoDB, Docker, AWS, GCP, Firebase <br/>
+Framework & Cloud: Docker, AWS, GCP, Firebase, Django, Node.js, React, Flask, Socket.IO, MongoDB <br/>
 AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figma <br/>
 
 ---
 
-Projects:
+### Projects
 
 - AI-Chatbot for Qualtrics Survey: 
 A full-stack LLM chatbot, designed for simple plug-and-play integration into Qualtric surveys. Supports modern LLMs like OPenAI, Anthropic, and Hugging Face, enabling researchers to embed AI-powered chatbot interactions directly into their survey workflows. The system handles real-time data exchange with Qualtrics and scales to support 200+ concurrent users. 
