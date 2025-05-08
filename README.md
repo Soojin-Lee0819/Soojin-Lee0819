@@ -16,21 +16,22 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
 
 ### Projects
 
-- **AI-Chatbot for Qualtrics Survey:** A full-stack LLM chatbot designed for plug-and-play integration into Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models for embedding AI interactions in survey workflows. Scales to 200+ concurrent users and handles real-time data exchange.  
+- [AI-Chatbot for Qualtrics Survey](#ai-chatbot-for-qualtrics-survey)
+- A full-stack LLM chatbot designed for plug-and-play integration into Qualtrics surveys. Supports OpenAI, Anthropic, and Hugging Face models for embedding AI interactions in survey workflows. Scales to 200+ concurrent users and handles real-time data exchange.  
   **Tech Stack:** Django, React, MariaDB, AWS EC2
 
-- **Journal Nook (2024 UPenn MCIT Hackathon):** A journaling app using OpenAI LLM to generate summaries, quotes, and reflections based on user entries.  
+- [Journal Nook](#journal-nook-2024-upenn-mcit-hackathon) A journaling app using OpenAI LLM to generate summaries, quotes, and reflections based on user entries.  
   **Tech Stack:** Flask, React, HTML/CSS, LangChain
 
-- **C++Wekipedia:** A multithreaded web server for file browsing and keyword search, handling concurrent clients with efficient threading.  
+- [C++Wekipedia](#cwekipedia) A multithreaded web server for file browsing and keyword search, handling concurrent clients with efficient threading.  
   **Tech Stack:** C, C++, POSIX Threads  
   **Note:** Source code not publicly available.
 
-- **Movie Name Game:** A two-player Java game where players guess movies connected by actors, directors, or genres. Includes autocomplete and metadata from a cleaned Kaggle dataset.  
+- [Movie Name Game](#movie-name-game) A two-player Java game where players guess movies connected by actors, directors, or genres. Includes autocomplete and metadata from a cleaned Kaggle dataset.  
   **Tech Stack:** Java, CSV Parsing, Autocomplete  
   **Note:** Source code not publicly available.
 
-- **Data Visualization & Web Games:** A collection of web apps combining interactive gameplay and real-time data visualization. Includes multiplayer Pictionary, image recognition games, a Starbucks label visualizer, and more.  
+- [Data Visualization & Web Games](#data-visualization--web-games) A collection of web apps combining interactive gameplay and real-time data visualization. Includes multiplayer Pictionary, image recognition games, a Starbucks label visualizer, and more.  
   **Tech Stack:** Node.js, Socket.IO, JavaScript, p5.js
 
 
