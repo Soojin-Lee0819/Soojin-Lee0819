@@ -22,11 +22,11 @@ AI/ML & Tools: PyTorch, TensorFlow, pandas, NumPy, scikit-learn, Git, Jira, Figm
 - [Journal Nook](https://github.com/Soojin-Lee0819/Journal_Nook) A journaling app using OpenAI LLM to generate summaries, quotes, and reflections based on user entries.  
   **Tech Stack:** Flask, React, HTML/CSS, LangChain
 
-- [C++Wekipedia](#cwekipedia) A multithreaded web server for file browsing and keyword search, handling concurrent clients with efficient threading.  
+- [C++Wekipedia] A multithreaded web server for file browsing and keyword search, handling concurrent clients with efficient threading.  
   **Tech Stack:** C, C++, POSIX Threads  
   **Note:** Source code not publicly available.
 
-- [Movie Name Game](#movie-name-game) A two-player Java game where players guess movies connected by actors, directors, or genres. Includes autocomplete and metadata from a cleaned Kaggle dataset.  
+- [Movie Name Game] A two-player Java game where players guess movies connected by actors, directors, or genres. Includes autocomplete and metadata from a cleaned Kaggle dataset.  
   **Tech Stack:** Java, CSV Parsing, Autocomplete  
   **Note:** Source code not publicly available.
 
