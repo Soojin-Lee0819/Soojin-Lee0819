@@ -15,7 +15,7 @@ Cloud, Data& ML: AWS, GCP, MongoDB, Neptune/Gremlin, PyTorch, scikit-learn, Tens
 
 ### Projects
 
--  [PennCloud] (https://github.com/Soojin-Lee0819/AI-Chatbot-for-Qualtrics-Survey) <br/>
+-  [PennCloud](https://github.com/Soojin-Lee0819/AI-Chatbot-for-Qualtrics-Survey) <br/>
 A highly distributed cloud platform offering webmail (Gmail-like) and cloud storage (Google Cloud-like) services. Built a scalable, fault-tolerant BigTable-inspired key-value datastore in C++, featuring strong consistency, replication, checkpointing, and crash recovery. The system is designed to handle distributed workloads reliably under failure conditions. <br/>
   **Tech Stack:** C++, gRPC, Replication & Consistency Protocols, Fault Tolerance & Recovery <br/>
   **Note:** Source code not publicly available. If you’d like to learn more or have any questions, feel free to reach out to me at slee06110@gmail.com.
