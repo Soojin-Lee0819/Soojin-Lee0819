@@ -18,8 +18,9 @@ Cloud, Data& ML: AWS, GCP, MongoDB, Neptune/Gremlin, PyTorch, scikit-learn, Tens
   - [Haus Note](https://github.com/Soojin-Lee0819/haus-note) · [Live App](https://hausnote.app) <br/>
     A collaborative apartment hunting app for couples and roommates. Create projects, save apartments with
   photos and notes, view everything on an interactive map, and auto-calculate commute times. Features real-time
-  collaboration, secure email invitations, and activity logging.
-    **Tech Stack:** React 19, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS, Storage), Google Maps
+  collaboration, secure email invitations, and activity logging. <br/>
+
+  **Tech Stack:** React 19, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS, Storage), Google Maps
   API, Capacitor (iOS/Android)
 
 -  [PennCloud](https://github.com/Soojin-Lee0819/PennCloud) <br/>
