@@ -15,6 +15,13 @@ Cloud, Data& ML: AWS, GCP, MongoDB, Neptune/Gremlin, PyTorch, scikit-learn, Tens
 
 ### Projects
 
+  - [Haus Note](https://github.com/Soojin-Lee0819/haus-note) · [Live App](https://hausnote.app)
+    A collaborative apartment hunting app for couples and roommates. Create projects, save apartments with
+  photos and notes, view everything on an interactive map, and auto-calculate commute times. Features real-time
+  collaboration, secure email invitations, and activity logging.
+    **Tech Stack:** React 19, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS, Storage), Google Maps
+  API, Capacitor (iOS/Android)
+
 -  [PennCloud](https://github.com/Soojin-Lee0819/PennCloud) <br/>
 A highly distributed cloud platform offering webmail (Gmail-like) and cloud storage (Google Cloud-like) services. Built a scalable, fault-tolerant BigTable-inspired key-value datastore in C++, featuring strong consistency, replication, checkpointing, and crash recovery. The system is designed to handle distributed workloads reliably under failure conditions. <br/>
   **Tech Stack:** C++, gRPC <br/>
