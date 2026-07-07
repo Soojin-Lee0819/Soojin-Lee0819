@@ -1,7 +1,7 @@
 Hi I'm Soojin
 ---
-🎓 I study CS @ UPenn <br/>
-👩‍💻 Incoming SWE @ Bloomberg  <br/>
+🎓 I Studied CS @ UPenn <br/>
+👩‍💻 SWE @ Bloomberg  <br/>
 🙌 LinkedIn: [soojin-lee-0819](https://www.linkedin.com/in/soojin-lee0819/)<br/>
 📩 Email: slee06110@gmail.com
 
